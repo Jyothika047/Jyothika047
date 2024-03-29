@@ -1,4 +1,4 @@
-import boto3
++import boto3
 
 topic_arn = ""
 def send_sns(message, subject):
